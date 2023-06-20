@@ -1,0 +1,16 @@
+C:\Users\user\Documents\VS Projects\Rivals.csproj\bin\Debug\Dungeons\Dungeon1.txt
+C:\Users\user\Documents\VS Projects\Rivals.csproj\bin\Debug\Dungeons\Dungeon2.txt
+C:\Users\user\Documents\VS Projects\Rivals.csproj\bin\Debug\Dungeons\Dungeon3.txt
+C:\Users\user\Documents\VS Projects\Rivals.csproj\bin\Debug\Dungeons\Dungeon4.txt
+C:\Users\user\Documents\VS Projects\Rivals.csproj\bin\Debug\Rivals.exe.config
+C:\Users\user\Documents\VS Projects\Rivals.csproj\bin\Debug\Rivals.exe
+C:\Users\user\Documents\VS Projects\Rivals.csproj\bin\Debug\Rivals.pdb
+C:\Users\user\Documents\VS Projects\Rivals.csproj\bin\Debug\nunit.framework.dll
+C:\Users\user\Documents\VS Projects\Rivals.csproj\obj\Debug\Rivals.csproj.AssemblyReference.cache
+C:\Users\user\Documents\VS Projects\Rivals.csproj\obj\Debug\Rivals.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\VS Projects\Rivals.csproj\obj\Debug\Rivals.Properties.Resources.resources
+C:\Users\user\Documents\VS Projects\Rivals.csproj\obj\Debug\Rivals.csproj.GenerateResource.cache
+C:\Users\user\Documents\VS Projects\Rivals.csproj\obj\Debug\Rivals.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\VS Projects\Rivals.csproj\obj\Debug\Rivals.csproj.CopyComplete
+C:\Users\user\Documents\VS Projects\Rivals.csproj\obj\Debug\Rivals.exe
+C:\Users\user\Documents\VS Projects\Rivals.csproj\obj\Debug\Rivals.pdb
